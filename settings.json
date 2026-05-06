@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {SICK_SMP_2.aternos.me
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port": 44913,
     "version": "",
     "try-creative": false
   },
