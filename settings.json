@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {TABAR_TOD_SMP09.aternos.me
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port": 32354,
     "version": "",
     "try-creative": false
   },
